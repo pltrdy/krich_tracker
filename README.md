@@ -6,6 +6,15 @@ More information about Krypton at:
 * annoncement: https://bitcointalk.org/index.php?topic=1368118.0
 * Krypton market informations: http://coinmarketcap.com/currencies/krypton/
 
+## Prerequisites
+* python lib `lxml`
+lxml prerequisites (maybe too much) (src: http://stackoverflow.com/a/23239568/5903959)
+
+`sudo apt-get install libxslt1-dev libxslt1.1 libxml2-dev libxml2 libssl-dev`
+
+* then`pip3 install libxml`
+
+
 ## Getting started
 First, clone this repo:
 
