@@ -1,10 +1,14 @@
 # KRYPTON Richlist Tracker
 Tracking activity on top 100 highest $Krypton wallet by regularly scrapping (kinda manually...) the richlist (http://gaiaplatform.com/kr/richlist.php)
 
+Krypton is an [ethereum](https://www.ethereum.org/) based cryptocurrency.
+
 More information about Krypton at: 
-* official website: http://krypton.rocks
-* annoncement: https://bitcointalk.org/index.php?topic=1368118.0
-* Krypton market informations: http://coinmarketcap.com/currencies/krypton/
+* [Official website](http://krypton.rocks)
+* [Official Annoncement](https://bitcointalk.org/index.php?topic=1368118.0)
+* [Development board](https://trello.com/b/JmmF7y7A/krypton)
+* [Krypton market informations](http://coinmarketcap.com/currencies/krypton/)
+* [Join Krypton slack!](https://slackinc955.azurewebsites.net/) 
 
 ## Prerequisites
 * python lib `lxml`
